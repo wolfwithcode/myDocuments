@@ -39,4 +39,5 @@ Người dùng có thể nhận biết được bình ắc quy hư hỏng qua nh
 
 Hầu hết dầu động cơ được bán phổ biến tại Việt Nam là loại đa cấp, nghĩa là có 2 chỉ số (10W40, 5W40). Chỉ số phía trước chữ W xác định mức giới hạn nhiệt độ đông đặc của dầu, trong khi chỉ số phía sau biểu thị độ đậm đặc của dầu ở nhiệt độ 100 độ C. Khi sử dụng vào mùa đông, người dùng nên lựa chọn dầu có 2 chỉ số thấp để giúp xe khởi động dễ dàng hơn.
 
-									**Theo otohui.com**
+									Theo otohui.com
+
