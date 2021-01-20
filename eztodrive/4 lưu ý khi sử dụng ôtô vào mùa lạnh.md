@@ -35,7 +35,7 @@ Người dùng có thể nhận biết được bình ắc quy hư hỏng qua nh
 
  Khi nhiệt độ xuống quá thấp, dầu động cơ sẽ trở nên đậm đặc hơn khiến cho việc khởi động xe gặp nhiều khó khăn, do các chi tiết cần bôi trơn chưa nhận được đủ lượng dầu cần thiết. Để xe dễ khởi động hơn vào mùa lạnh, người dùng cần lựa chọn loại dầu động cơ có độ đậm đặc thấp.
 
-![img](file:////tmp/wps-anhld/ksohtml/wps2IVjHU.png) 
+![img](https://res.cloudinary.com/dzw5skdae/image/upload/v1611135931/eztodrive/wps2IVjHU_evug9s.png) 
 
 Hầu hết dầu động cơ được bán phổ biến tại Việt Nam là loại đa cấp, nghĩa là có 2 chỉ số (10W40, 5W40). Chỉ số phía trước chữ W xác định mức giới hạn nhiệt độ đông đặc của dầu, trong khi chỉ số phía sau biểu thị độ đậm đặc của dầu ở nhiệt độ 100 độ C. Khi sử dụng vào mùa đông, người dùng nên lựa chọn dầu có 2 chỉ số thấp để giúp xe khởi động dễ dàng hơn.
 
