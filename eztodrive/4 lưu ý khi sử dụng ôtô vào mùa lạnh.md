@@ -19,7 +19,7 @@ Vào mùa đông, nhiệt độ xuống thấp khiến cho ma sát giữa lốp 
 
 Tác dụng của nước làm mát là giải nhiệt cho động cơ, một số loại nước làm mát có nhiệt độ đóng băng cao dễ gặp phải tình trạng bị đông cứng khi thời tiết quá lạnh hoặc đỗ xe lâu ngày. Để khắc phục tình trạng này, người dùng nên đổ thêm dung dịch chống đông vào nước làm mát.
 
-![img](file:////tmp/wps-anhld/ksohtml/wpsTnbXaW.png) 
+![img](https://res.cloudinary.com/dzw5skdae/image/upload/v1611135593/eztodrive/wpsTnbXaW_ynekao.png) 
 
 Chuyên gia Ford lưu ý với người sử dụng chất chống đông cần pha theo đúng tỉ lệ để tránh hư hỏng cho bộ tản nhiệt và máy bơm. Mỗi loại xe sẽ có loại dung dịch chống đông tương ứng, chủ xe có thể tham khảo sổ hướng dẫn để lựa chọn loại dung dịch phù hợp.
 
