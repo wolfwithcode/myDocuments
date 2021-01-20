@@ -12,6 +12,8 @@ Vào mùa đông, nhiệt độ xuống thấp khiến cho ma sát giữa lốp 
 
 ![img](file:////tmp/wps-anhld/ksohtml/wpsqdJm0V.png) 
 
+![aaa](https://res.cloudinary.com/dzw5skdae/image/upload/v1611135295/eztodrive/wpsqdJm0V_dlleve.png)
+
 Để tăng khả năng bám đường cho lốp vào thời tiết lạnh, người lái có thể xả bớt hơi của lốp xuống dưới mức khuyến nghị, cách làm này sẽ giúp tăng diện tích lốp tiếp xúc với mặt đường, tuy nhiên cũng khiến cho lốp nhanh mòn hơn. Đối với lốp đã mòn đến mức chỉ định, người lái cần thay thế lốp mới.
 
 ***\*Sử dụng dung dịch chống đông nước làm mát\****
