@@ -10,7 +10,6 @@ Nếu như thời tiết nóng bức khiến cho ôtô gặp phải tình trạn
 
 Vào mùa đông, nhiệt độ xuống thấp khiến cho ma sát giữa lốp và mặt đường bị giảm đi đáng kể, điều này khiến cho xe khó kiểm soát hơn khi điều khiển. Tại Việt Nam, lốp xe dành cho mùa đông khá hiếm, hầu hết xe trên thị trường chỉ được trang bị lốp mùa hè hoặc cao cấp hơn là loại lốp 4 mùa.
 
-![img](file:////tmp/wps-anhld/ksohtml/wpsqdJm0V.png) 
 
 ![aaa](https://res.cloudinary.com/dzw5skdae/image/upload/v1611135295/eztodrive/wpsqdJm0V_dlleve.png)
 
