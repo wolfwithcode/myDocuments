@@ -27,7 +27,7 @@ Chuyên gia Ford lưu ý với người sử dụng chất chống đông cần 
 
 Trang **Green Flag** cho biết bình ắc-quy của xe có nguy cơ hỏng cao hơn khi thường xuyên ở trong điều kiện thời tiết ẩm ướt hay nhiệt độ thấp. Ắc quy bị hỏng tiềm ẩn nhiều nguy hiểm như không thể khởi động xe hoặc các hệ thống điện gặp sự cố do nguồn điện cấp không ổn định.
 
-![img](https://res.cloudinary.com/dzw5skdae/image/upload/v1611135593/eztodrive/wpsTnbXaW_ynekao.png) 
+![img](https://res.cloudinary.com/dzw5skdae/image/upload/v1611135769/eztodrive/Picture1_jw9bey.png) 
 
 Người dùng có thể nhận biết được bình ắc quy hư hỏng qua những dấu hiệu như xe khó khởi động hơn thông thường, đèn báo bình ắc-quy trên bảng đồng hồ tốc độ phát sáng. Theo khuyến cáo của nhiều hãng xe, ắc quy nên được thay thế sau 3 năm sử dụng.
 
