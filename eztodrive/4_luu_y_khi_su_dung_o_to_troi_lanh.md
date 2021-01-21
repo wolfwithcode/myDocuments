@@ -1,8 +1,8 @@
 ---
 title: Cá bạc má - Vị thuốc tự nhiên
 description: Cá bạc má - Vị thuốc tự nhiên tốt cho sức khỏe
-date: 13/01/2021
-imgUrl: https://thisfish.info/projects/thisfish/data/user/Mullet_560.jpg
+createdDate: 13/01/2021
+coverImage: https://thisfish.info/projects/thisfish/data/user/Mullet_560.jpg
 
 ---
 
