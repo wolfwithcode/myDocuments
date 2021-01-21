@@ -1,8 +1,8 @@
 ---
 title: Cá Bớp - Loài cá trắng sánh ngang với cá hồi Coho.
 description: Cá bớp, haisanmo3, thông tin chi tiết.
-date: 12/01/2021
-imgUrl: https://arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/XYWF6QCRT2PTLWSDNDN42GYCA4.jpg
+createdDate:  12/01/2021
+coverImage: https://arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/XYWF6QCRT2PTLWSDNDN42GYCA4.jpg
 ---
 
 

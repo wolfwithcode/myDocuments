@@ -1,8 +1,8 @@
 ---
 title: Lạc vào thiên đường chợ hải sản Vũng Tàu.
 description: Các chợ hải sản Vũng Tàu, vừa tươi ngon vừa bổ rẻ...
-date: 28/12/2020
-imgUrl: https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/anh-3-10.png
+createdDate:  28/12/2020
+coverImage: https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/anh-3-10.png
 ---
 
 

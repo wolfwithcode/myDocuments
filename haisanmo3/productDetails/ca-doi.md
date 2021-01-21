@@ -1,8 +1,8 @@
 ---
 title: Cá Đối -  Thịt xông khói Biloxi
 description: Cá đối thịt xông khói Biloxi.
-date: 13/01/2021
-imgUrl: https://thisfish.info/projects/thisfish/data/user/Mullet_560.jpg
+createdDate:  13/01/2021
+coverImage: https://thisfish.info/projects/thisfish/data/user/Mullet_560.jpg
 
 ---
 

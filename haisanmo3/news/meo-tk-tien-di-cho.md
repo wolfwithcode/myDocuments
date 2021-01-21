@@ -1,8 +1,8 @@
 ---
 title: 10 mẹo giúp tiết kiệm tiền khi đi chợ
 description: Mẹo giúp người nội trợ không phải chi quá nhiều tiền một cách vô ích...
-date: 28/12/2020
-imgUrl: https://i1-giadinh.vnecdn.net/2020/07/21/music-unsplash-7701-1595316150.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=cquEJtYntZpEmsG2rhOpbA
+createdDate:  28/12/2020
+coverImage: https://i1-giadinh.vnecdn.net/2020/07/21/music-unsplash-7701-1595316150.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=cquEJtYntZpEmsG2rhOpbA
 ---
 
 

@@ -1,8 +1,8 @@
 ---
 title: Mực xào cay
 description: Cuối tuần đổi món, công thức vừa ngon mắt lại ngon miệng. 
-date: 28/12/2020
-imgUrl: https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/129183724_174859727665489_616631495004681821_n.jpg?_nc_cat=101&ccb=2&_nc_sid=730e14&_nc_ohc=mUZKAXBAY-YAX-58CoR&_nc_ht=scontent.fsgn2-4.fna&oh=a0fb2b1d5c46f08365a6452c6db71fe0&oe=600D8CA4
+createdDate:  28/12/2020
+coverImage: https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/129183724_174859727665489_616631495004681821_n.jpg?_nc_cat=101&ccb=2&_nc_sid=730e14&_nc_ohc=mUZKAXBAY-YAX-58CoR&_nc_ht=scontent.fsgn2-4.fna&oh=a0fb2b1d5c46f08365a6452c6db71fe0&oe=600D8CA4
 ---
 
 ## Mực xào cay

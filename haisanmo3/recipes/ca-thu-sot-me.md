@@ -1,8 +1,8 @@
 ---
 title: Cá thu sốt me
 description: Cá thu sốt me ngon, nóng hổi cho ngày lạnh. 
-date: 28/12/2020
-imgUrl: https://scontent.fsgn2-6.fna.fbcdn.net/v/t1.0-9/129644256_174864817664980_2954665938797813915_n.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=NmM9mZkSDvsAX8Vmlm7&_nc_ht=scontent.fsgn2-6.fna&oh=6a36a16f9f2952897d1fefa51fe54974&oe=600DE6B3
+createdDate:  28/12/2020
+coverImage: https://scontent.fsgn2-6.fna.fbcdn.net/v/t1.0-9/129644256_174864817664980_2954665938797813915_n.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=NmM9mZkSDvsAX8Vmlm7&_nc_ht=scontent.fsgn2-6.fna&oh=6a36a16f9f2952897d1fefa51fe54974&oe=600DE6B3
 ---
 ## Món cá thu sốt me
 ![enter image description here](https://scontent.fsgn2-6.fna.fbcdn.net/v/t1.0-9/129644256_174864817664980_2954665938797813915_n.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=NmM9mZkSDvsAX8Vmlm7&_nc_ht=scontent.fsgn2-6.fna&oh=6a36a16f9f2952897d1fefa51fe54974&oe=600DE6B3)

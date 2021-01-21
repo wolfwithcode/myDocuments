@@ -1,8 +1,8 @@
 ---
 title: Ford New Explorer
 description: Đánh giá xe Ford Explorer 2020
-date: 28/12/2020
-imgUrl: https://muaxegiatot.vn/wp-content/uploads/2019/01/gia-xe-ford-explorer-2020-muaxegiatot-vn.jpg
+createdDate:  28/12/2020
+coverImage: https://muaxegiatot.vn/wp-content/uploads/2019/01/gia-xe-ford-explorer-2020-muaxegiatot-vn.jpg
 ---
 # Ford New Explorer
 

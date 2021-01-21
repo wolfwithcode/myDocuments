@@ -1,8 +1,8 @@
 ---
 title: Cá thu - Thực phẩm tốt cho sức khỏe tim mạch
 description: Cá thu là loài cá chứa nhiều dầu, cung cấp nhiều Omega-3 tốt cho sức khỏe tim mạch.
-date: 13/01/2021
-imgUrl: https://www.nemoequipment.com/wp-content/uploads/CEVICHE_BLOG_HEADER.jpg
+createdDate:  13/01/2021
+coverImage: https://www.nemoequipment.com/wp-content/uploads/CEVICHE_BLOG_HEADER.jpg
 
 ---
 

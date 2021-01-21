@@ -1,8 +1,8 @@
 ---
 title: Tất tần tật những thông tin về ăn kiêng Eat Clean
 description: Eat Clean là gì? Vì sao Eat Clean được ưa chuộng?...
-date: 28/12/2020
-imgUrl: https://cdn.tgdd.vn/Files/2019/10/17/1209766/che-do-an-eat-clean-la-gi-giup-giam-can-hay-tang-can-.jpg
+createdDate:  28/12/2020
+coverImage: https://cdn.tgdd.vn/Files/2019/10/17/1209766/che-do-an-eat-clean-la-gi-giup-giam-can-hay-tang-can-.jpg
 ---
 
 # Tất tần tật những thông tin về ăn kiêng Eat Clean

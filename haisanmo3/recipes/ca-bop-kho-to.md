@@ -1,8 +1,8 @@
 ---
 title: Cá bớp kho tộ
 description: Cá bớp kho tộ, món ăn dân dã, ấm bụng ngày mưa
-date: 28/12/2020
-imgUrl: https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/127577340_167361365081992_8845587556373397060_n.jpg?_nc_cat=105&ccb=2&_nc_sid=8bfeb9&_nc_ohc=moNG_qdOcD4AX_cm6Xr&_nc_ht=scontent.fsgn2-1.fna&oh=ec23789ca5b38a6719a1541851173f0d&oe=600F81BB
+createdDate:  28/12/2020
+coverImage: https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/127577340_167361365081992_8845587556373397060_n.jpg?_nc_cat=105&ccb=2&_nc_sid=8bfeb9&_nc_ohc=moNG_qdOcD4AX_cm6Xr&_nc_ht=scontent.fsgn2-1.fna&oh=ec23789ca5b38a6719a1541851173f0d&oe=600F81BB
 ---
 ## Cá bớp kho tộ
 Cá bớp kho tộ, món ăn dân dã, ấm bụng ngày mưa
